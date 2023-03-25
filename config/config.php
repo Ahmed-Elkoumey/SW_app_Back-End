@@ -5,5 +5,5 @@
 //db config 
 define("HOST","localhost");
 define("USER","root");
-define("PASSWORD",NULL);
+define("PASSWORD","");
 define("DBNAME","sc_products_list");
